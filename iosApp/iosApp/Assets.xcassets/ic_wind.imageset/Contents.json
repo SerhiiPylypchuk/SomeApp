@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_wind.SVG",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
